@@ -2,6 +2,7 @@
 - yelp dataset을 가공하여 전체 지역을 대상으로 guest house ranking table을 생성 및 서빙합니다.
 - 프로젝트에 사용한 테이블: review.json, tips.json, business.json
 - TODOs
+  - AWS Infra 실제 생성 및 PoC
   - 국가별 또는 지역별 ranking
 
 #### Project Architecture
