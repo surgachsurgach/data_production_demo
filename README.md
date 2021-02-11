@@ -4,7 +4,7 @@
 - 프로젝트에 사용한 테이블: review.json, tips.json, business.json
 
 #### Project Architecture
-- `yanolja_data_production_diagram_HyesungOh.pdf`를 참고해주세요 
+- `data_production_diagram_HyesungOh.pdf`를 참고해주세요 
 
 #### Python(Airflow)
 - Source root: `data_production_demo/python`
