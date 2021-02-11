@@ -32,5 +32,6 @@
 - web framework `gin`
   - https://github.com/gin-gonic/gin
 - database `AWS ElasticCache Redis`
+  - https://aws.amazon.com/ko/elasticache/redis/
   - https://github.com/go-redis/redis
 
