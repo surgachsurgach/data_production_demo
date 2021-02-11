@@ -9,8 +9,10 @@
 
 #### Python(Airflow)
 - Source root: `data_production_demo/python`
-- `Apache Airflow`: https://airflow.apache.org/docs/apache-airflow/stable/index.html
-- `AWS sdk for python`: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/emr.html#EMR.Client.run_job_flow
+- `Apache Airflow`
+  - https://airflow.apache.org/docs/apache-airflow/stable/index.html
+- `AWS sdk for python`
+  - https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/emr.html#EMR.Client.run_job_flow
 - DAG/Operator
   - `create_emr_cluster`
     - boto3 client를 이용해 AWS EMR Cluster를 띄웁니다. 
@@ -27,6 +29,6 @@
 #### Golang(REST API)
 - Source root: `data_production_demo/goLang`
 - 게스트 하우스 랭킹 데이터를 category별로 서빙합니다.
-- webframework
-  - `gin`: https://github.com/gin-gonic/gin
+- webframework `gin`
+  - https://github.com/gin-gonic/gin
 
