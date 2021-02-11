@@ -3,6 +3,9 @@
   - TODOs: 국가별 또는 지역별 ranking
 - 프로젝트에 사용한 테이블: review.json, tips.json, business.json
 
+#### Project Architecture
+- `yanolja_data_production_diagram_HyesungOh.pdf`를 참고해주세요 
+
 #### Python(Airflow)
 - Source root: `data_production_demo/python`
 - DAG
@@ -17,3 +20,4 @@
 #### Golang(REST API)
 - Source root: `data_production_demo/goLang`
 - 게스트 하우스 랭킹 데이터를 category별로 서빙합니다.
+
