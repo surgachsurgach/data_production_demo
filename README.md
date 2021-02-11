@@ -1,5 +1,5 @@
 # data-production-demo by Hyesung Oh
-- yelp dataset을 이용하여 전체 지역을 대상으로 guest house ranking table을 생성합니다.
+- yelp dataset을 가공하여 전체 지역을 대상으로 guest house ranking table을 생성합니다.
 - 프로젝트에 사용한 테이블: review.json, tips.json, business.json
 - TODOs
   - 국가별 또는 지역별 ranking
