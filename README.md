@@ -10,6 +10,7 @@
 #### Python(Airflow)
 - Source root: `data_production_demo/python`
 - `Apache Airflow`: https://airflow.apache.org/docs/apache-airflow/stable/index.html
+- `AWS sdk for python`: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/emr.html#EMR.Client.run_job_flow
 - DAG/Operator
   - `create_emr_cluster`
     - boto3 client를 이용해 AWS EMR Cluster를 띄웁니다. 
