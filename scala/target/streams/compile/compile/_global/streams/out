@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ohyeseong/Desktop/data-batch 2/scala/src/main/scala/com/yelp/batch/mart/guestHouse/app/CalculateGuestHouseRankingHelper.scala:85:56: not enough arguments for method apply: (business_id: String, tip_score: Float, review_score: Float, total_score: Float)com.yelp.batch.mart.guestHouse.app.GuestHouseRanking in object GuestHouseRanking.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter total_score.[0m
+[0m[[0m[31merror[0m] [0m[0m        case(guestHouse, tipScore) => GuestHouseRanking(guestHouse.business_id, tipScore.tip_score, 0)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

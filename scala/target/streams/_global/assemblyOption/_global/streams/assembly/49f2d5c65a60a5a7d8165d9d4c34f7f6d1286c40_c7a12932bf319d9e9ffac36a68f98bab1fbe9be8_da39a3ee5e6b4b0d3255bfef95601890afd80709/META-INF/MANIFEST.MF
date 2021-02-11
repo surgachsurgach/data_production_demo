@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: scalatest-flatspec
+Implementation-Version: 3.2.3
+Specification-Vendor: org.scalatest
+Specification-Title: scalatest-flatspec
+Implementation-Vendor-Id: org.scalatest
+Specification-Version: 3.2.3
+Implementation-Vendor: org.scalatest
+

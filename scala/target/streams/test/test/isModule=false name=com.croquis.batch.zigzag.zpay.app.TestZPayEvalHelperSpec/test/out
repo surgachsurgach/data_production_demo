@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestZPayEvalHelperSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest getCurrAndStartDatesByUTCStr[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return the string of current and 30-days-ago UTC date-time[0m[0m

@@ -1,0 +1,53 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1604742732692
+Bundle-Description: ScalaTest is an open-source test framework for the
+  Java Platform designed to increase your productivity by letting you 
+ write fewer lines of test code that more clearly reveal your intent.
+Bundle-DocURL: http://www.scalatest.org/
+Bundle-ManifestVersion: 2
+Bundle-Name: ScalaTest Matchers Core
+Bundle-SymbolicName: org.scalatest.matchers.core
+Bundle-Vendor: Artima, Inc.
+Bundle-Version: 3.2.3
+Created-By: 1.8.0_262 (GraalVM Community)
+Export-Package: org.scalatest.matchers;uses:="org.scalactic,org.scalac
+ tic.source,org.scalatest,org.scalatest.compatible,org.scalatest.enabl
+ ers,org.scalatest.exceptions,org.scalatest.matchers.dsl,scala,scala.c
+ ollection,scala.collection.immutable,scala.collection.mutable,scala.r
+ eflect,scala.reflect.api,scala.reflect.macros.whitebox,scala.runtime,
+ scala.util.matching";version="3.2.3",org.scalatest.matchers.dsl;uses:
+ ="org.scalactic,org.scalactic.source,org.scalatest.compatible,org.sca
+ latest.enablers,org.scalatest.matchers,org.scalatest.verbs,scala,scal
+ a.collection,scala.collection.generic,scala.collection.immutable,scal
+ a.collection.mutable,scala.collection.parallel,scala.math,scala.refle
+ ct,scala.reflect.api,scala.reflect.macros.whitebox,scala.runtime,scal
+ a.util.matching";version="3.2.3"
+Implementation-Title: scalatest-matchers-core
+Implementation-Vendor: org.scalatest
+Implementation-Vendor-Id: org.scalatest
+Implementation-Version: 3.2.3
+Import-Package: org.scalatest;version="[3.2,4)",org.scalatest.compatib
+ le,org.scalatest.enablers;version="[3.2,4)",org.scalatest.exceptions;
+ version="[3.2,4)",org.scalatest.matchers,org.scalatest.matchers.dsl,o
+ rg.scalatest.verbs;version="[3.2,4)",org.scalactic;resolution:=option
+ al,org.scalactic.source;resolution:=optional,scala;resolution:=option
+ al;version="[2.12,3)",scala.collection;resolution:=optional;version="
+ [2.12,3)",scala.collection.convert;resolution:=optional;version="[2.1
+ 2,3)",scala.collection.generic;resolution:=optional;version="[2.12,3)
+ ",scala.collection.immutable;resolution:=optional;version="[2.12,3)",
+ scala.collection.mutable;resolution:=optional;version="[2.12,3)",scal
+ a.collection.parallel;resolution:=optional;version="[2.12,3)",scala.m
+ ath;resolution:=optional;version="[2.12,3)",scala.reflect;resolution:
+ =optional;version="[2.12,3)",scala.reflect.api;resolution:=optional;v
+ ersion="[2.12,3)",scala.reflect.macros;resolution:=optional;version="
+ [2.12,3)",scala.reflect.macros.whitebox;resolution:=optional;version=
+ "[2.12,3)",scala.runtime;resolution:=optional;version="[2.12,3)",scal
+ a.util;resolution:=optional;version="[2.12,3)",scala.util.matching;re
+ solution:=optional;version="[2.12,3)"
+Private-Package: org.scalatest.matchers.core.*
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Specification-Title: scalatest-matchers-core
+Specification-Vendor: org.scalatest
+Specification-Version: 3.2.3
+Tool: Bnd-5.1.2.202007211702
+

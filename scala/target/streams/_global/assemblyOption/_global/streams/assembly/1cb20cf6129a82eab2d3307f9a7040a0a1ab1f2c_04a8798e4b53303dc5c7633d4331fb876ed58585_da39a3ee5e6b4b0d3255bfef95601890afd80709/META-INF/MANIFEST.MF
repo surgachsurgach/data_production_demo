@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: scalatest-refspec
+Implementation-Version: 3.2.3
+Specification-Vendor: org.scalatest
+Specification-Title: scalatest-refspec
+Implementation-Vendor-Id: org.scalatest
+Specification-Version: 3.2.3
+Implementation-Vendor: org.scalatest
+

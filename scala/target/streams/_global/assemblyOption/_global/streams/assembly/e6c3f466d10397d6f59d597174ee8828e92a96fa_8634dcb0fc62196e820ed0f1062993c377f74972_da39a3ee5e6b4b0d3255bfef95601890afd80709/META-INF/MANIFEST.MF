@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+Export-Package: org.osgi.jmx.service.cm;uses:="javax.management.openmb
+ ean";version="1.3",org.osgi.jmx.framework;uses:="org.osgi.jmx,javax.m
+ anagement.openmbean";version="1.5",org.osgi.jmx.service.permissionadm
+ in;version="1.2",org.osgi.jmx.service.provisioning;uses:="javax.manag
+ ement.openmbean";version="1.2",org.osgi.jmx.service.useradmin;uses:="
+ org.osgi.jmx,javax.management.openmbean";version="1.1",org.osgi.jmx;u
+ ses:="javax.management.openmbean";version="1.0",org.osgi.service.blue
+ print.reflect;version="1.0.1",org.osgi.service.blueprint.container;us
+ es:="org.osgi.service.blueprint.reflect,org.osgi.framework";version="
+ 1.0.1",org.osgi.service.cm;uses:="org.osgi.framework";version="1.3",o
+ rg.osgi.service.component;uses:="org.osgi.framework";version="1.1",or
+ g.osgi.service.event;uses:="org.osgi.framework";version="1.2",org.osg
+ i.service.http;uses:="javax.servlet.http,javax.servlet";version="1.2.
+ 1",org.osgi.service.provisioning;version="1.2",org.osgi.service.remot
+ eserviceadmin;uses:="org.osgi.framework";version="1.0",org.osgi.servi
+ ce.jdbc;uses:="javax.sql";version="1.0",org.osgi.service.jndi;uses:="
+ javax.naming.directory,javax.naming";version="1.0",org.osgi.service.j
+ pa;uses:="javax.persistence";version="1.0",org.osgi.service.log;uses:
+ ="org.osgi.framework";version="1.3",org.osgi.service.metatype;uses:="
+ org.osgi.framework";version="1.1",org.osgi.service.useradmin;uses:="o
+ rg.osgi.framework";version="1.1",org.osgi.util.tracker;uses:="org.osg
+ i.framework";version="1.4",org.osgi.util.xml;uses:="org.osgi.framewor
+ k,javax.xml.parsers";version="1.0.1"
+Tool: Bnd-0.0.386
+Bundle-Name: osgi.enterprise
+Created-By: 1.6.0_18 (Sun Microsystems Inc.)
+Bundle-Copyright: Copyright (c) OSGi Alliance (2000, 2010). All Rights
+  Reserved.
+Bundle-Vendor: OSGi Alliance
+DynamicImport-Package: *
+Bundle-Version: 4.2.0.201003190513
+Bnd-LastModified: 1269033188762
+Bundle-ManifestVersion: 2
+Bundle-License: http://opensource.org/licenses/apache2.0.php; link="ht
+ tp://www.apache.org/licenses/LICENSE-2.0"; description="Apache Licens
+ e, Version 2.0"
+Bundle-Description: OSGi Service Platform Release 4 Version 4.2, Enter
+ prise Interfaces and Classes for use in compiling bundles.
+Import-Package: javax.management.openmbean;resolution:=optional,javax.
+ naming;resolution:=optional,javax.naming.directory;resolution:=option
+ al,javax.persistence;resolution:=optional,javax.servlet;resolution:=o
+ ptional,javax.servlet.http;resolution:=optional,javax.sql;resolution:
+ =optional,javax.xml.parsers;resolution:=optional,org.osgi.framework;r
+ esolution:=optional;version="[1.5,2)",org.osgi.jmx;resolution:=option
+ al;version="[1.0,2)",org.osgi.jmx.framework;resolution:=optional;vers
+ ion="[1.5,2)",org.osgi.jmx.service.cm;resolution:=optional;version="[
+ 1.3,2)",org.osgi.jmx.service.permissionadmin;resolution:=optional;ver
+ sion="[1.2,2)",org.osgi.jmx.service.provisioning;resolution:=optional
+ ;version="[1.2,2)",org.osgi.jmx.service.useradmin;resolution:=optiona
+ l;version="[1.1,2)",org.osgi.service.blueprint.container;resolution:=
+ optional;version="[1.0,2)",org.osgi.service.blueprint.reflect;resolut
+ ion:=optional;version="[1.0,2)",org.osgi.service.cm;resolution:=optio
+ nal;version="[1.3,2)",org.osgi.service.component;resolution:=optional
+ ;version="[1.1,2)",org.osgi.service.event;resolution:=optional;versio
+ n="[1.2,2)",org.osgi.service.http;resolution:=optional;version="[1.2,
+ 2)",org.osgi.service.jdbc;resolution:=optional;version="[1.0,2)",org.
+ osgi.service.jndi;resolution:=optional;version="[1.0,2)",org.osgi.ser
+ vice.jpa;resolution:=optional;version="[1.0,2)",org.osgi.service.log;
+ resolution:=optional;version="[1.3,2)",org.osgi.service.metatype;reso
+ lution:=optional;version="[1.1,2)",org.osgi.service.provisioning;reso
+ lution:=optional;version="[1.2,2)",org.osgi.service.remoteserviceadmi
+ n;resolution:=optional;version="[1.0,2)",org.osgi.service.useradmin;r
+ esolution:=optional;version="[1.1,2)",org.osgi.util.tracker;resolutio
+ n:=optional;version="[1.4,2)",org.osgi.util.xml;resolution:=optional;
+ version="[1.0,2)"
+Bundle-SymbolicName: osgi.enterprise
+

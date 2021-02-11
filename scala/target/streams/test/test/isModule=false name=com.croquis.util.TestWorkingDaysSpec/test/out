@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestWorkingDaysSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest countHolidays[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should 4 holidays since exclude start/end dates[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest short-term calculateWorkingDays without holidays[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should 4 working days[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest short-term calculateWorkingDays with holidays[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should 3 working days[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest long-term calculateWorkingDays without holidays[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should 10 working days[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest long-term calculateWorkingDays with holidays[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should 9 working days[0m[0m

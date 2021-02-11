@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.5.4
+Built-By: Jeremy
+Build-Jdk: 9.0.4
+Specification-Title: waffle-jna
+Specification-Version: 1.9
+Specification-Vendor: com.github.waffle
+Implementation-Title: waffle-jna
+Implementation-Version: 1.9.1
+Implementation-Vendor-Id: com.github.waffle
+Implementation-Vendor: com.github.waffle
+Implementation-URL: https://waffle.github.com/waffle/
+Build-Time: 2018-07-02 00:54:43
+Copyright: 2018
+Git-Revision: 
+Os-Arch: amd64
+Os-Name: Windows 10
+Os-Version: 10.0
+X-Compile-Source-JDK: 1.8
+X-Compile-Target-JDK: 1.8
+

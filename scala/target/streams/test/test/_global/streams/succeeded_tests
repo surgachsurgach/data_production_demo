@@ -1,0 +1,9 @@
+#Successful Tests
+#Thu Feb 04 12:30:02 KST 2021
+com.croquis.batch.zigzag.zpay.app.TestZPayEvalHelperSpec=1612409401987
+com.croquis.util.TestWorkingDaysSpec=1612409402004
+com.croquis.util.TestStringHandler=1612409402337
+com.croquis.util.TestDateSpec=1612409402009
+com.croquis.batch.zigzag.vip.model.TestVIPPaidRecordSpec=1612409402003
+com.croquis.util.TestDateTimeSpec=1612409401988
+com.croquis.util.TestUriSpec=1612409401987

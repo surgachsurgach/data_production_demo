@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestUriSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest getQueryValueByKey - Some[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return the value of url[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest getQueryValueByKey - None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest getCompValue[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return the value of its key[0m[0m

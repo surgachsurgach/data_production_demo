@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:test" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:abtest" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:batch" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dump" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:shop" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:vip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dump" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05f97390-5d1f-4ebe-ac52-2f2ef37747a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../scala/src/main/scala/com/yelp/batch/mart/guestHouse/app/ConvertJsonToHiveTable.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packer/packer_build.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packer/template.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../packer/variables.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/monitor/dms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/naunau/dump/cart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/naunau/dump/es.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/naunau/dump/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/naunau/dump/order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/naunau/dump/point.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/naunau/dump/product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/naunau/dump/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/abtest/abtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/cart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/event.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/goods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/goods_score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/notification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/order_settlement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/shipping_tracking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/shop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/user_account_coupon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/user_account_inquiry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/user_account_point.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/user_feedback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/user_pay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/ux_daily.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/dump/ux_hourly.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/log/log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/log/repair_table_daily.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/log/repair_table_hourly.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/log/stream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/advertising_daily.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/advertising_hourly.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/app_kpi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/goods_age_profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/mart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/search_related_keywords.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/shop_coupon_target_users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/shop_ranking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/user_coupon_hourly.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/vip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/zpay_delivery_estimate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/mart/zpay_shop_eval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/other_services/download_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/recommend/goods_to_goods_advertising.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/recommend/goods_to_goods_all.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/recommend/goods_to_goods_prepare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/third_party/amplitude_update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/third_party/appsflyer_dl_reports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/third_party/braze_update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dags/zigzag/third_party/twc_reports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jobs/monitor/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jobs/naunau/dump.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jobs/zigzag/abtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jobs/zigzag/dump.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jobs/zigzag/log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jobs/zigzag/mart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jobs/zigzag/other_services.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jobs/zigzag/recommend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jobs/zigzag/third_party.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/aws/athena.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/aws/batch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/aws/elasti_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/aws/hook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/aws/personalize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/core/dump.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/core/esdump.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/core/http.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/core/postgres.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/core/spark.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/other_services/download_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/third_party/braze_update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/braze/add_bookmark.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/braze/add_my_goods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/braze/daily_statistics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/braze/failed_add_to_cart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/braze/other_attributes_by_user_alias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/braze/vip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/compact_abtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/dump_goods_score.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/other_services/download_ably_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/other_services/download_brandi_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/twc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/upload_age_profile_to_es.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/upload_coupon_policy_stat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/upload_delivery_estimate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/upload_goods_to_goods_advertising.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/upload_goods_to_goods_all.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/upload_search_related_keywords.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/upload_shop_coupon_target_users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/upload_shop_ranking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/operators/zigzag/upload_vip_paid_record.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/naunau/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/naunau/table/cart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/naunau/table/es.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/naunau/table/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/naunau/table/order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/naunau/table/point.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/naunau/table/product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/naunau/table/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/abtest/abtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/log/log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/advertising.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/app_kpi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/goods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/goods_age_profile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/mart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/review.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/search_related_keywords.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/shop_coupon_target_users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/shop_ranking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/user_coupon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/vip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/zpay_delivery_estimate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/mart/zpay_shop_eval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/recommend/goods_to_goods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/cart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/event.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/goods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/notification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/order.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/order_settlement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/shipping_tracking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/shop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/user_account_coupon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/user_account_inquiry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/user_account_point.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/user_feedback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/user_pay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/table/ux.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/third_party/amplitude_update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/third_party/appsflyer_dl_reports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/third_party/braze_update.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/schema/zigzag/third_party/twc_reports.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/sensor/sensor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/utils/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/plugins/utils/configuration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/utils/constants/date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/utils/constants/trigger_rule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/utils/cron.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/utils/emr/cluster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/utils/emr/mode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/utils/hooks/slack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/utils/metaclass/pattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/utils/schema.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/buildspec.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/dump/DumpWithJDBC.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/dump/model/ColumnChangeType.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/naunau/api/app/BuildApiUserByES.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/naunau/api/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/recover/app/FillEmptyUUIDToUAL.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/recover/app/OverwriteToUAL.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/recover/app/RecoverFailedRecordsFromUALFirehose.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/recover/model/UserActivityLogs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/recover/table/table.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/abtest/app/CompactUsers.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/abtest/app/DumpABTests.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/abtest/app/DumpUsers.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/abtest/app/UpdateGroups.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/abtest/model/ABTest.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/abtest/model/Group.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/abtest/model/User.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/abtest/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/app/CTRByAgeGroupHelper.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/app/CalculateTargetContentsCTR.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/app/CalculateTargetContentsCTRWithPosition.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/app/CalculateTargetContentsPositionCTR.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/app/GoodsStatLogHelper.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/app/ReadGoodsStatLogDaily.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/app/ReadGoodsStatLogHourly.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/model/CTRByAgeGroupInput.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/model/CTRByAgeGroupOutput.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/model/GoodsStat.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/model/GoodsStatLogFull.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/model/TargetContentsCTRWithPosition.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/advertising/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/amplitude/app/PushUBLToAmplitude.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/amplitude/model/AmplitudeRecord.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/amplitude/model/UBLForAmplitude.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/amplitude/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/braze/app/IdentifyAddBookmark.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/braze/app/IdentifyAddMyGoods.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/braze/app/IdentifyFailedAddToCart.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/braze/app/IdentifyOtherAttributesByUserAlias.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/braze/app/IdentifyVIPAttributes.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/braze/app/ValueDiffHelper.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/braze/model/UserAliasAttribute.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/braze/model/ValueDiff.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/braze/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/app/ApplyTimeDecayOnGoodsScore.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/app/BuildBestTabGoodsDelivery.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/app/BuildGoodsScore.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/app/BuildGoodsScoreFromES.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/app/CalculateProductAgePaidRatio.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/app/ProfileShopByAge.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/app/RecommendGoodsToGoods.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/app/ShortlistGoodsForBestTab.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/app/UserPaidHelper.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/model/AgePaidRatio.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/model/BestTabGoodsScore.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/model/BestTabParameters.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/model/GoodsScore.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/model/TimeDecayedGoodsScore.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/model/UserActionOnGoods.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/model/UserPaid.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/goods/table/table.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/kpi/app/AppKPIDaily.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/kpi/app/AppKPIHelper.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/kpi/app/AppKPIMonthly.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/kpi/app/AppKPIWeekly.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/kpi/model/AppKPI.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/kpi/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/app/AdCreatives.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/app/DerivedShopMetricsDailies.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/app/QueryShopLogs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/app/SearchGoodsLogs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/app/SellerActivityLogs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/app/UserActivityLogs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/app/UserBehaviorLogs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/model/LogReader.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/model/PathFormat.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/model/UTCLogReader.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/model/UserBehaviorLogs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/log/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/order/app/BuildOrderInfo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/order/model/OrderInfo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/order/model/URLPattern.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/order/model/UserActivityLogsIntermediate.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/order/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/point/app/PointTransactions.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/point/app/UserPoint.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/point/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/recommend/app/BuildGoodsToGoodsInputs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/recommend/app/BuildGoodsToGoodsInputsOmniousSnapshot.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/recommend/app/BuildGoodsToGoodsInteractions.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/recommend/app/BuildGoodsToGoodsItems.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/recommend/app/BuildGoodsToGoodsUsers.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/recommend/app/IdentifyGoodsToGoodsInputsOmnious.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/recommend/app/ParseGoodsToGoodsOutputs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/recommend/model/GoodsInputsOmnious.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/recommend/table/table.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/refine/app/CartItemDeltaCreated.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/refine/app/CartItemDeltaUpdated.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/refine/app/MetaOrderInfo.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/refine/app/Users.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/refine/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/review/app/SelectBestReviews.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/review/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/search/app/BuildRelatedKeywordsDelivery.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/search/app/IdentifyBestRelatedKeywordsByAge.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/search/app/IdentifyRelatedKeywords.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/search/app/IdentifySearchKeywords.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/search/app/KeywordHelper.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/search/model/RelatedKeyword.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/search/model/SearchKeyword.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/search/model/TopKeyword.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/search/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/shop/app/AdjustShopScore.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/shop/app/BuildShopDailies.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/shop/app/BuildShopRankingDelivery.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/shop/app/CalculateShopAmountPercent.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/shop/app/CalculateShopRanking.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/shop/model/ShopAdjustedScore.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/shop/model/ShopAmountPercent.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/shop/model/ShopRanking.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/shop/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/simplepay/app/BankAccountConnectUser.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/simplepay/app/PurchaseByPaymentMethod.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/simplepay/app/ServerBasedEnrollFunnel.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/simplepay/app/SimplePaymentUser.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/simplepay/model/PaymentMethod.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/simplepay/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/thirdparty/app/AppsflyerReports.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/thirdparty/app/DataLockerReports.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/thirdparty/app/TWCReports.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/thirdparty/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/user/app/BuildUserDailies.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/user/model/UserActionLogs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/user/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/vip/app/CalculateVIPConfirmedPaid.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/vip/app/CalculateVIPRecentlyPaid.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/vip/app/IdentifyVIPPaidRecord.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/vip/app/VIPLevelHelper.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/vip/model/VIPLevel.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/vip/model/VIPPaidRecord.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/vip/model/VIPUserPaidAmountConfirmed.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/vip/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/CalculateCouponPolicyStat.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/EstimateZPayDelivery.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/EvaluateZPayShops.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/IdentifyShopCouponTargetUsers.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/IdentifyUserCoupon.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/IdentifyZPayShopEvalItems.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/IdentifyZPayShopExchangeEvalItems.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/ZPayEvalHelper.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/ZPayOrder.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/ZPayOrderConfirmed.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/ZPayOrderCreated.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/ZPayOrderPaid.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/app/ZPayOrderRefunded.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/model/UserCoupon.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/model/ZPayEvalShopCntType.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/model/ZPayEvalShopItemType.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/batch/zigzag/zpay/table/package.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/core/context/DateHourPartitionedTable.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/core/context/DatePartitionedTable.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/core/context/DateStringPartitionedTable.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/core/context/UnpartitionedTable.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/core/jdbc/CroquisJDBC.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/core/spark/ExtendedSparkContext.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/src/main/scala/com/yelp/core/spark/ExtendedSparkContext.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/Slack.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/StringHandler.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/TableWriter.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/Uri.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/date/Date.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/date/DateTime.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/date/WorkingDays.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/udf/Age.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/udf/Masking.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/udf/Timestamp.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/user/AbusingUser.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/main/scala/com/croquis/util/user/AgeGroup.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/test/scala/com/croquis/batch/zigzag/vip/model/TestVIPPaidRecordSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/test/scala/com/croquis/batch/zigzag/zpay/app/TestZPayEvalHelperSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/test/scala/com/croquis/util/TestDateSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/test/scala/com/croquis/util/TestDateTimeSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/test/scala/com/croquis/util/TestStringHandler.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/test/scala/com/croquis/util/TestUriSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/src/test/scala/com/croquis/util/TestWorkingDaysSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings/zeppelin-conf.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="3dca46b8-2cd6-4e48-b00a-b8561edba7c2" />
+  <component name="ProjectId" id="1kjCQi12J8BopjQq55Drp03SEag" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="cluster" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plugins/utils/emr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plugins/utils/emr/cluster.py" />
+      <option name="PARAMETERS" value="hyesung 1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05f97390-5d1f-4ebe-ac52-2f2ef37747a2" name="Default Changelist" comment="" />
+      <created>1606204599482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606204599482</updated>
+      <workItem from="1606204601291" duration="526000" />
+      <workItem from="1606205186845" duration="2711000" />
+      <workItem from="1606282313314" duration="1836000" />
+      <workItem from="1606352217633" duration="5032000" />
+      <workItem from="1606438049858" duration="15341000" />
+      <workItem from="1606698736549" duration="15988000" />
+      <workItem from="1606784646057" duration="7973000" />
+      <workItem from="1606868983631" duration="129000" />
+      <workItem from="1606869285628" duration="2645000" />
+      <workItem from="1606874618943" duration="6036000" />
+      <workItem from="1606958075669" duration="3417000" />
+      <workItem from="1607044638816" duration="1802000" />
+      <workItem from="1607252410523" duration="1034000" />
+      <workItem from="1607259275150" duration="931000" />
+      <workItem from="1607304920282" duration="423000" />
+      <workItem from="1607391487557" duration="1042000" />
+      <workItem from="1607475885010" duration="5814000" />
+      <workItem from="1607563964834" duration="2399000" />
+      <workItem from="1607649981179" duration="604000" />
+      <workItem from="1607909861378" duration="722000" />
+      <workItem from="1607996783489" duration="1039000" />
+      <workItem from="1608084055060" duration="2797000" />
+      <workItem from="1608170080331" duration="562000" />
+      <workItem from="1608257745199" duration="1161000" />
+      <workItem from="1608516376311" duration="933000" />
+      <workItem from="1608602008135" duration="3878000" />
+      <workItem from="1608775337457" duration="2296000" />
+      <workItem from="1609120526608" duration="1268000" />
+      <workItem from="1609207328339" duration="618000" />
+      <workItem from="1609293329539" duration="2205000" />
+      <workItem from="1609331163547" duration="1000" />
+      <workItem from="1609380261011" duration="1205000" />
+      <workItem from="1609725636920" duration="868000" />
+      <workItem from="1609812127268" duration="1954000" />
+      <workItem from="1609898530136" duration="1236000" />
+      <workItem from="1609984401026" duration="475000" />
+      <workItem from="1610070835992" duration="6609000" />
+      <workItem from="1610330293524" duration="515000" />
+      <workItem from="1610341139828" duration="7865000" />
+      <workItem from="1610416528289" duration="4738000" />
+      <workItem from="1610503724904" duration="7843000" />
+      <workItem from="1610589776044" duration="640000" />
+      <workItem from="1610675110648" duration="2349000" />
+      <workItem from="1610784330149" duration="959000" />
+      <workItem from="1610938238129" duration="447000" />
+      <workItem from="1611022940815" duration="1064000" />
+      <workItem from="1611194172498" duration="756000" />
+      <workItem from="1611280872910" duration="979000" />
+      <workItem from="1611417274129" duration="3840000" />
+      <workItem from="1611491262152" duration="5144000" />
+      <workItem from="1611540790551" duration="286000" />
+      <workItem from="1611627176381" duration="535000" />
+      <workItem from="1611715111201" duration="7711000" />
+      <workItem from="1611890418779" duration="484000" />
+      <workItem from="1612097843724" duration="714000" />
+      <workItem from="1612144599171" duration="7761000" />
+      <workItem from="1612230891073" duration="2547000" />
+      <workItem from="1612318691528" duration="9305000" />
+      <workItem from="1612404212393" duration="3007000" />
+      <workItem from="1612514762081" duration="602000" />
+      <workItem from="1612537050964" duration="1254000" />
+      <workItem from="1612726297127" duration="362000" />
+      <workItem from="1612777574263" duration="14762000" />
+      <workItem from="1612869518443" duration="1278000" />
+      <workItem from="1612964773817" duration="2990000" />
+      <workItem from="1613021298101" duration="1001000" />
+      <workItem from="1613027749209" duration="603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="-890" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612405100371">
+      <screen x="-76" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="384" y="-890" key="#com.intellij.execution.impl.EditConfigurationsDialog/-76.-1057.1920.1057/0.23.1792.1028@-76.-1057.1920.1057" timestamp="1612405100370" />
+    <state x="429" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/-76.-1057.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1606282613150" />
+    <state x="384" y="-890" key="#com.intellij.execution.impl.EditConfigurationsDialog/-76.-1057.1920.1057/0.23.1792.1033@-76.-1057.1920.1057" timestamp="1607391701043" />
+    <state x="384" y="-890" key="#com.intellij.execution.impl.EditConfigurationsDialog/-76.-1057.1920.1057/0.23.1792.1034@-76.-1057.1920.1057" timestamp="1607062400150" />
+    <state x="429" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1610516961333" />
+    <state x="429" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1610794586744" />
+    <state x="429" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1033@0.23.1792.1033" timestamp="1607259342810" />
+    <state x="2143" y="206" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.1920.1057/0.23.1792.1024@1792.23.1920.1057" timestamp="1606206469633" />
+    <state x="2252" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.1920.980/0.23.1792.1097@1792.23.1920.980" timestamp="1606207518977" />
+    <state x="651" y="297" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612778258735">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="622" y="-775" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-76.-1057.1920.1057/0.23.1792.1028@-76.-1057.1920.1057" timestamp="1612409123249" />
+    <state x="651" y="297" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1612778258735" />
+    <state x="2533" y="281" key="EnvironmentVariablesDialog" timestamp="1606206001529">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2533" y="281" key="EnvironmentVariablesDialog/1792.23.1920.1057/0.23.1792.1024@1792.23.1920.1057" timestamp="1606206001529" />
+    <state x="671" y="-786" key="FileChooserDialogImpl" timestamp="1606462609303">
+      <screen x="-76" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="671" y="-786" key="FileChooserDialogImpl/-76.-1057.1920.1057/0.23.1792.1025@-76.-1057.1920.1057" timestamp="1606462609303" />
+    <state x="2539" y="274" key="FileChooserDialogImpl/1792.23.1920.980/0.23.1792.1097@1792.23.1920.980" timestamp="1606207455234" />
+    <state width="1878" height="186" key="GridCell.Tab.0.bottom" timestamp="1612421629151">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="264" key="GridCell.Tab.0.bottom/-76.-1057.1920.1057/0.23.1792.1026@-76.-1057.1920.1057" timestamp="1606294816853" />
+    <state width="1878" height="186" key="GridCell.Tab.0.bottom/-76.-1057.1920.1057/0.23.1792.1028@-76.-1057.1920.1057" timestamp="1612407846258" />
+    <state width="1750" height="264" key="GridCell.Tab.0.bottom/-76.-1057.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1606282678562" />
+    <state width="939" height="232" key="GridCell.Tab.0.bottom/-76.-1057.1920.1057/0.23.1792.1030@-76.-1057.1920.1057" timestamp="1609331159410" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/-76.-1057.1920.1057/0.23.1792.1033@-76.-1057.1920.1057" timestamp="1607428299541" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/-76.-1057.1920.1057/0.23.1792.1034@-76.-1057.1920.1057" timestamp="1607076194745" />
+    <state width="939" height="232" key="GridCell.Tab.0.bottom/-76.-1057.1920.984/0.23.1792.1097@-76.-1057.1920.984" timestamp="1609843819436" />
+    <state width="1878" height="186" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1612421629151" />
+    <state width="1750" height="188" key="GridCell.Tab.0.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1611330372306" />
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom/1792.23.1920.1057/0.23.1792.1024@1792.23.1920.1057" timestamp="1606210531414" />
+    <state width="1878" height="264" key="GridCell.Tab.0.bottom/1792.23.1920.980/0.23.1792.1097@1792.23.1920.980" timestamp="1606207520423" />
+    <state width="1878" height="186" key="GridCell.Tab.0.center" timestamp="1612421629150">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="264" key="GridCell.Tab.0.center/-76.-1057.1920.1057/0.23.1792.1026@-76.-1057.1920.1057" timestamp="1606294816852" />
+    <state width="1878" height="186" key="GridCell.Tab.0.center/-76.-1057.1920.1057/0.23.1792.1028@-76.-1057.1920.1057" timestamp="1612407846257" />
+    <state width="1750" height="264" key="GridCell.Tab.0.center/-76.-1057.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1606282678562" />
+    <state width="939" height="232" key="GridCell.Tab.0.center/-76.-1057.1920.1057/0.23.1792.1030@-76.-1057.1920.1057" timestamp="1609331159409" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/-76.-1057.1920.1057/0.23.1792.1033@-76.-1057.1920.1057" timestamp="1607428299540" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/-76.-1057.1920.1057/0.23.1792.1034@-76.-1057.1920.1057" timestamp="1607076194744" />
+    <state width="939" height="232" key="GridCell.Tab.0.center/-76.-1057.1920.984/0.23.1792.1097@-76.-1057.1920.984" timestamp="1609843819435" />
+    <state width="1878" height="186" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1612421629150" />
+    <state width="1750" height="188" key="GridCell.Tab.0.center/0.23.1792.1030@0.23.1792.1030" timestamp="1611330372306" />
+    <state width="1878" height="264" key="GridCell.Tab.0.center/1792.23.1920.1057/0.23.1792.1024@1792.23.1920.1057" timestamp="1606210531413" />
+    <state width="1878" height="264" key="GridCell.Tab.0.center/1792.23.1920.980/0.23.1792.1097@1792.23.1920.980" timestamp="1606207520423" />
+    <state width="1878" height="186" key="GridCell.Tab.0.left" timestamp="1612421629149">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="264" key="GridCell.Tab.0.left/-76.-1057.1920.1057/0.23.1792.1026@-76.-1057.1920.1057" timestamp="1606294816852" />
+    <state width="1878" height="186" key="GridCell.Tab.0.left/-76.-1057.1920.1057/0.23.1792.1028@-76.-1057.1920.1057" timestamp="1612407846256" />
+    <state width="1750" height="264" key="GridCell.Tab.0.left/-76.-1057.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1606282678561" />
+    <state width="939" height="232" key="GridCell.Tab.0.left/-76.-1057.1920.1057/0.23.1792.1030@-76.-1057.1920.1057" timestamp="1609331159409" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/-76.-1057.1920.1057/0.23.1792.1033@-76.-1057.1920.1057" timestamp="1607428299540" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/-76.-1057.1920.1057/0.23.1792.1034@-76.-1057.1920.1057" timestamp="1607076194743" />
+    <state width="939" height="232" key="GridCell.Tab.0.left/-76.-1057.1920.984/0.23.1792.1097@-76.-1057.1920.984" timestamp="1609843819435" />
+    <state width="1878" height="186" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1612421629149" />
+    <state width="1750" height="188" key="GridCell.Tab.0.left/0.23.1792.1030@0.23.1792.1030" timestamp="1611330372305" />
+    <state width="1878" height="264" key="GridCell.Tab.0.left/1792.23.1920.1057/0.23.1792.1024@1792.23.1920.1057" timestamp="1606210531413" />
+    <state width="1878" height="264" key="GridCell.Tab.0.left/1792.23.1920.980/0.23.1792.1097@1792.23.1920.980" timestamp="1606207520422" />
+    <state width="1878" height="186" key="GridCell.Tab.0.right" timestamp="1612421629150">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state width="1750" height="264" key="GridCell.Tab.0.right/-76.-1057.1920.1057/0.23.1792.1026@-76.-1057.1920.1057" timestamp="1606294816852" />
+    <state width="1878" height="186" key="GridCell.Tab.0.right/-76.-1057.1920.1057/0.23.1792.1028@-76.-1057.1920.1057" timestamp="1612407846257" />
+    <state width="1750" height="264" key="GridCell.Tab.0.right/-76.-1057.1920.1057/0.23.1792.1028@0.23.1792.1028" timestamp="1606282678562" />
+    <state width="939" height="232" key="GridCell.Tab.0.right/-76.-1057.1920.1057/0.23.1792.1030@-76.-1057.1920.1057" timestamp="1609331159410" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/-76.-1057.1920.1057/0.23.1792.1033@-76.-1057.1920.1057" timestamp="1607428299540" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/-76.-1057.1920.1057/0.23.1792.1034@-76.-1057.1920.1057" timestamp="1607076194745" />
+    <state width="939" height="232" key="GridCell.Tab.0.right/-76.-1057.1920.984/0.23.1792.1097@-76.-1057.1920.984" timestamp="1609843819435" />
+    <state width="1878" height="186" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1612421629150" />
+    <state width="1750" height="188" key="GridCell.Tab.0.right/0.23.1792.1030@0.23.1792.1030" timestamp="1611330372306" />
+    <state width="1878" height="264" key="GridCell.Tab.0.right/1792.23.1920.1057/0.23.1792.1024@1792.23.1920.1057" timestamp="1606210531414" />
+    <state width="1878" height="264" key="GridCell.Tab.0.right/1792.23.1920.980/0.23.1792.1097@1792.23.1920.980" timestamp="1606207520423" />
+    <state x="2253" y="152" key="SettingsEditor" timestamp="1606207466976">
+      <screen x="1792" y="23" width="1920" height="980" />
+    </state>
+    <state x="2253" y="152" key="SettingsEditor/1792.23.1920.980/0.23.1792.1097@1792.23.1920.980" timestamp="1606207466976" />
+    <state x="560" y="-907" width="648" height="756" key="find.popup" timestamp="1612157572925">
+      <screen x="-76" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="560" y="-907" width="648" height="756" key="find.popup/-76.-1057.1920.1057/0.23.1792.1028@-76.-1057.1920.1057" timestamp="1612157572925" />
+    <state x="594" y="169" width="604" height="735" key="find.popup/0.23.1792.1028@0.23.1792.1028" timestamp="1611418792848" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins/operators/core/dump.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plugins/utils/emr/cluster.py</url>
+          <line>459</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dags/zigzag/recommend/goods_to_goods_prepare.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$cluster.coverage" NAME="cluster Coverage Results" MODIFIED="1612404272222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plugins/utils/emr" />
+  </component>
+</project>

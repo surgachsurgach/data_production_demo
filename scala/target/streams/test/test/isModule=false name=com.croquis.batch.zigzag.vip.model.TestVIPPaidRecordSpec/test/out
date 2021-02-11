@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestVIPPaidRecordSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest getVIPConfirmedStartDate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return the first day of 3-months-ago[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest getVIPConfirmedStartDate for the last day of the month[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return the first day of 2-months-ago[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest getVIPConfirmedEndDate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return the last day of last month[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest getVIPConfirmedEndDate of the last month[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return the last day of the month[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest getVIPRecentlyStartDate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return the first day of 2-months-ago[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest getVIPRecentlyStartDate of the last day of the month[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return the first day of 1-months-ago[0m[0m

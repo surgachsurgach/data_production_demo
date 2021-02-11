@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestStringHandler:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest parseNullableJsonString[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return the map[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest removeMutiSpaces[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Should return at most one space string[0m[0m
