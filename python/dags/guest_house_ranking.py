@@ -41,7 +41,7 @@ with DAG(job['name'], start_date=job['start_date'], schedule_interval=job['sched
         sleep_between_fetch=1,
         custom_query= f"""
             SELECT category, business_ids
-            FROM guset_house.ranking_delivery_partitioned
+            FROM guest_house.ranking_delivery_partitioned
         """)
 
     create_emr_cluster >> build_guest_house_ranking_tables >> upload_guest_house_ranking_to_ec >> terminate_emr_cluster
