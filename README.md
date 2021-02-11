@@ -14,6 +14,6 @@
 - Source root: `data_production_demo/scala`
 - guest_house_ranking_weekly, guest_house_ranking_monthly, guest_house_ranking_yearly, guest_house_ranking_delivery 테이블 빌드 및 하이브 테이블 적재
 
-### Golang(REST API)
+#### Golang(REST API)
 - Source root: `data_production_demo/goLang`
 - 게스트 하우스 랭킹 데이터를 category별로 서빙합니다.
