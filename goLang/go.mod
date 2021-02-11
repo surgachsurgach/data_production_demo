@@ -1,4 +1,4 @@
-module github.com/data_production_demo/goLang
+module github.com/surgachsurgach/data_production_demo/goLang
 
 go 1.14
 

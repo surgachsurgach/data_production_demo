@@ -3,7 +3,7 @@ package controllers
 import (
 	"github.com/gin-gonic/gin"
 	"net/http"
-	"github.com/data_production_demo/goLang/internal/app/models"
+	"github.com/surgachsurgach/data_production_demo/goLang/internal/app/models"
 )
 
 func ReadGuestHouseRanking(c *gin.Context) {

@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/data_production_demo/goLang/internal/pkg/dbs"
-	"github.com/data_production_demo/goLang/internal/app/controllers"
+	"github.com/surgachsurgach/data_production_demo/goLang/internal/pkg/dbs"
+	"github.com/surgachsurgach/data_production_demo/goLang/internal/app/controllers"
 	"log"
 	"net/http"
 )

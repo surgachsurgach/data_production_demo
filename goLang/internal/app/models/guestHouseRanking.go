@@ -2,7 +2,7 @@ package models
 
 import (
 	"encoding/json"
-	"github.com/data_production_demo/goLang/internal/pkg/dbs"
+	"github.com/surgachsurgach/data_production_demo/goLang/internal/pkg/dbs"
 	"log"
 )
 
