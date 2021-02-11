@@ -9,6 +9,7 @@
 
 #### Python(Airflow)
 - Source root: `data_production_demo/python`
+- `Apache Airflow`: https://airflow.apache.org/docs/apache-airflow/stable/index.html
 - DAG/Operator
   - `create_emr_cluster`
     - boto3 client를 이용해 AWS EMR Cluster를 띄웁니다. 
@@ -19,6 +20,7 @@
 
 #### Scala(Spark)
 - Source root: `data_production_demo/scala`
+- `Apache Spark quick start`: https://spark.apache.org/docs/latest/quick-start.html 
 - guest_house_ranking_weekly, guest_house_ranking_monthly, guest_house_ranking_yearly, guest_house_ranking_delivery 테이블 빌드 및 하이브 테이블 적재
 
 #### Golang(REST API)
