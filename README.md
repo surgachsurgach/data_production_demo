@@ -31,4 +31,6 @@
 - 게스트 하우스 랭킹 데이터를 category별로 서빙합니다.
 - web framework `gin`
   - https://github.com/gin-gonic/gin
+- database 'Redis'
+  - https://github.com/go-redis/redis
 
